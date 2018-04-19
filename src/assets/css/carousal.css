@@ -1,0 +1,29 @@
+.carousel-control.left{
+
+background-image: none;
+}
+.carousel-control.right{
+
+background-image: none;
+}
+/*.carousel-indicators li{
+   background-color:#3f51b5;
+  border:1px solid  black;
+}
+.carousel-indicators li active{
+   background-color: white;
+  border:1px solid black;
+}*/
+.carousel-indicators li {
+    height: 20px;
+    width: 20px;
+    max-width: 20px;
+    background-color: #3f51b5;
+}
+.carousel-indicators .active {
+    height: 25px;
+    width: 25px;
+    max-width: 25px;
+    background-color: #3f51b5;
+    border-radius: 50%;
+}

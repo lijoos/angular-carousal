@@ -1,0 +1,19 @@
+ button {
+    font-family: Pacifico;
+    font-size: 18px;
+    font-weight: 500;
+}
+.scrim {
+    
+    position: fixed;
+  top: 0
+}
+
+mat-toolbar{
+  border-radius:2px;
+ position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%
+}
