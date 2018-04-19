@@ -7,8 +7,7 @@ please find the demo here
 https://angular-carousal.firebaseapp.com/
 
 
-
-
+<img src="/docs/angu-carousal.png" alt="My cool logo"/>
 
 ## Development server
 
