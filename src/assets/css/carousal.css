@@ -15,15 +15,29 @@ background-image: none;
   border:1px solid black;
 }*/
 .carousel-indicators li {
+    margin-bottom: 2%;
     height: 20px;
     width: 20px;
     max-width: 20px;
     background-color: #3f51b5;
 }
 .carousel-indicators .active {
+     margin-bottom: 2%;
     height: 25px;
     width: 25px;
     max-width: 25px;
     background-color: #3f51b5;
     border-radius: 50%;
+}
+@media screen and (min-width: 768px){
+.carousel-indicators {
+    bottom: -45px;
+}
+}
+
+
+@media screen and (max-width: 500px){
+.carousel-indicators {
+    bottom: -43px;
+}
 }
